@@ -52,9 +52,9 @@ screening officer will determine whether your ticket is valid (in which you have
 in your review application.
 
 If you're not satisfied with the outcome of your review (your ticket was determined to be valid), you may 
-proceed to Option 3, which is to request a trial date by submitting a Notice of Intention to Appear form.  
+proceed to Option 3, which is to request a trial date by submitting a Notice of Intention to Appear (NIA) form.  
 Once this form is submitted, a trial date will be assigned to you.
 
-Create a flow-chart to describe this scenerio.
+Create a flow-chart to describe this scenario.
 
 */

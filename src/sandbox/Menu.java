@@ -17,7 +17,7 @@ public class Menu {
 			System.out.println("3. Exit");
 			System.out.println("Choice: ");
 			
-			choice = sc.nextInt();
+			choice = sc.nextInt(); 
 			
 			if (choice == 1)  {
 				helloWorld();
